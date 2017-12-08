@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<project name="jsettlers" default="build">
+<project name="CatanFinal" default="build">
 
 <!--
  This file is part of Java Settlers - An online multiplayer version of the game Settlers of Catan
